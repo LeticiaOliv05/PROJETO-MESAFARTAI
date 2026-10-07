@@ -1,0 +1,15 @@
+ETAPA 1 – KICKOFF, DOCUMENTAÇÃO, ARQUITETURA E BANCO DE DADOS
+
+Nesta primeira etapa do projeto MESAFARTAI, o grupo deverá organizar a estrutura inicial necessária para o desenvolvimento do sistema.
+
+Deverá ser criado um repositório público no GitHub com o nome PROJETO-MESAFARTAI, contendo a documentação e os arquivos iniciais do projeto.
+
+O README.md deverá apresentar o título oficial do projeto, uma descrição resumida da solução, seu alinhamento com a ODS 2 da ONU e a identificação dos integrantes do grupo.
+
+Também deverá ser criada a pasta docs, contendo este arquivo regras.txt e o arquivo escopo_projeto.md. O escopo deverá apresentar o problema de negócio, o público-alvo, as intenções que serão tratadas pelo sistema, os dados coletados durante a conversa e o prompt utilizado para criação do logotipo.
+
+O projeto deverá possuir uma identidade visual, com um logotipo que represente a união entre alimentação, acolhimento, tecnologia e Inteligência Artificial.
+
+Nesta etapa também deverá ser criado o arquivo src/database.py, desenvolvido em Python utilizando SQLite3. Esse arquivo será responsável pela criação do banco de dados mesafartai.db, contendo as tabelas de usuários, doações e matches, além da carga inicial com dados de teste de ONGs e doadores.
+
+Ao final desta etapa, o repositório deverá estar organizado, documentado e com o banco de dados funcionando corretamente, estabelecendo a estrutura inicial para o desenvolvimento das próximas etapas do MESAFARTAI.
