@@ -7,7 +7,8 @@ utilizando a tecnologia como ferramenta de apoio no combate à fome.
 
 Leticia Nascimento de Sousa Oliveira -  RA: 98032
 Paloma Alves Evangelista - RA: 147948
-Gustavo Nascimento Cavalcante - RA:
+Gustavo Alves Cavalcante - RA: 137821
+Higor Silva Dutra - RA: 104567
 
 
 
